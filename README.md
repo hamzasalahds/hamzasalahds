@@ -2,4 +2,4 @@
 I’m a data enthusiast with experience in analytics & visualization. Currently pursuing a Master’s in Data Science, I love turning data into actionable insights. My skills include Python, SQL, and Tableau.
 
 ### 🔗 Explore My Projects
-You can check out some of my projects [**here**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics--visualization-portfolio).
+You can check out some of my projects [**here**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
