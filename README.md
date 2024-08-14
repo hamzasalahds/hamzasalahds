@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Salah</h1>
 <h3 align="center">I strive to leverage data to drive impactful insights and solutions.</h3>
 
-- 👨‍💻 All of my projects are available at [my repo](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio)
+- 👨‍💻 All of my projects are available at [my repo](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
-- 📝 I regularly write articles on [medium](https://medium.com/@hamzamsalahds)
+- 📝 I regularly write articles on [medium](https://medium.com/@hamzamsalahds).
 
-- 📫 How to reach me hamzasalahds@gmail.com
+- 📫 How to reach me hamzasalahds@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
