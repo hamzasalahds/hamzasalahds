@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Salah</h1>
+[<h1 align="center">Hi 👋, I'm Hamza Salah</h1>
 <h3 align="center">Data Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasalahds&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasalahds" /> </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzasalahds&show_icons=true&locale=en" alt="hamzasalahds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasalahds&" alt="hamzasalahds" /></p>
+](https://rahuldkjain.github.io/gh-profile-readme-generator/)
