@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza Salah</h1>
-<h3 align="center">I’m a creative data professional with a passion for delivering impactful insights and solutions.</h3>
+<h2>Hi 👋, I'm Hamza Salah</h1>
+I’m a creative data professional with a passion for delivering impactful insights and solutions.
 
 - 👨‍💻 All of my projects are available at [my repo](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
