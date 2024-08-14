@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Hamza Salah</h1>
-<strong>I’m a creative data professional with a passion for delivering impactful insights and solutions.</strong>
+<strong>Data is my passion. Making a difference is my mission.</strong>
 
 <h3 align="left">About me: </h3>
 
