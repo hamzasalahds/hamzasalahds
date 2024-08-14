@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Hamza Salah</h1>
 <strong>I’m a creative data professional with a passion for delivering impactful insights and solutions.</strong>
 
-<h3> About me: </h3>
+<h3 align="left">About me: </h3>
 
 - 🎓 Currently pursuing a Master’s in Data Science.
 
