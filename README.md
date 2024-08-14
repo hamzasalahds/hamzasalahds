@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [**my repo**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
-- 📝 I regularly post tech blogs on [**medium**](https://medium.com/@hamzamsalahds).
+- 📝 I regularly post tech blogs documenting my learning experience on [**medium**](https://medium.com/@hamzamsalahds).
 
 - 🎥 Check out my data science tutorials on [**youtube**](https://www.youtube.com/@hamzasalahds).
 
