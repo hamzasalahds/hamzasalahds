@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [**my repo**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
+- 🎓 I’m currently pursuing a Master’s in Data Science with a focus on machine learning.
+
 - 📝 I regularly post technical articles on [**medium**](https://medium.com/@hamzamsalahds).
 
 - 🎥 Check out my data science tutorials on [**YouTube**](https://www.youtube.com/@hamzasalahds).
