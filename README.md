@@ -1,13 +1,13 @@
 <h2>Hi 👋, I'm Hamza Salah</h1>
 <strong>I’m a creative data professional with a passion for delivering impactful insights and solutions.</strong>
 
-- 🎓 I’m currently pursuing a Master’s in Data Science with a focus on machine learning.
+- 🎓 Pursuing a Master’s in Data Science, focusing on machine learning.
 
-- 📝 I regularly post tech blogs documenting my learning experience on [**medium**](https://medium.com/@hamzamsalahds).
+- 👨‍💻 All my projects are available on [**GitHub**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
-- 👨‍💻 All of my projects are available at [**my repo**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
+- 📝 I post my data dcience learning journey on [**Medium**](https://medium.com/@hamzamsalahds).
 
-- 🎥 Check out my data science tutorials on [**youtube**](https://www.youtube.com/@hamzasalahds).
+- 🎥 Watch my data science tutorials on [**Youtube**](https://www.youtube.com/@hamzasalahds).
 
 - 📫 You can reach me at my **hamzasalahds@gmail.com**.
 
