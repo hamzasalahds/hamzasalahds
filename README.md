@@ -3,13 +3,13 @@
 
 - 🎓 I’m currently pursuing a Master’s in Data Science with a focus on machine learning.
 
-- 👨‍💻 All of my projects are available at [**my repo**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
-
 - 📝 I regularly post tech blogs documenting my learning experience on [**medium**](https://medium.com/@hamzamsalahds).
+
+- 👨‍💻 All of my projects are available at [**my repo**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio).
 
 - 🎥 Check out my data science tutorials on [**youtube**](https://www.youtube.com/@hamzasalahds).
 
-- 📫 You can reach me at **hamzasalahds@gmail.com**.
+- 📫 You can reach me at my **hamzasalahds@gmail.com**.
 
 <h3 align="left">Explore My Work:</h3>
 <p align="left">
