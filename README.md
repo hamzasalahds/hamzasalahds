@@ -7,7 +7,7 @@
 
 - 📝 I regularly post technical articles on [**medium**](https://medium.com/@hamzamsalahds).
 
-- 🎥 Check out my data science tutorials on [**YouTube**](https://www.youtube.com/@hamzasalahds).
+- 🎥 Check out my data science tutorials on [**youtube**](https://www.youtube.com/@hamzasalahds).
 
 - 📫 You can reach me at **hamzasalahds@gmail.com**.
 
