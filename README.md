@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Salah</h1>
 <h3 align="center">Data Professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasalahds&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasalahds" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzasalahds" alt="hamzasalahds" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [my repo](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio](https://github.com/hamzasalahds/projects/blob/main/README.md#data-analytics-programming--visualization-portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@hamzamsalahds](https://medium.com/@hamzamsalahds)
 
@@ -26,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzasalahds&show_icons=true&locale=en&layout=compact" alt="hamzasalahds" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzasalahds&show_icons=true&locale=en" alt="hamzasalahds" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasalahds&" alt="hamzasalahds" /></p>
-](https://rahuldkjain.github.io/gh-profile-readme-generator/)
