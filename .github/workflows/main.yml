@@ -31,3 +31,8 @@ jobs:
           config_timezone: America/Chicago
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
