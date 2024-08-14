@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **hamzasalahds@gmail.com**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Explore My Work:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/hamzasalahds/vizzes" target="blank"><img align="center" src="tableau-icon-svgrepo-com.svg" alt="@hamzasalahds" height="30" width="40" /></a>
 <a href="https://medium.com/@hamzamsalahds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamzasalahds" height="30" width="40" /></a>
