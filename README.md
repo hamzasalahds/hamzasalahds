@@ -11,8 +11,6 @@
 
 - 🎥 Explore my data science tutorials on [**Youtube**](https://www.youtube.com/@hamzasalahds).
 
-- 📫 You can reach me at my **hamzasalahds@gmail.com**.
-
 <h3 align="left">Explore My Work:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/hamzasalahds/vizzes" target="blank"><img align="center" src="tableau-icon-svgrepo-com.svg" alt="@hamzasalahds" height="30" width="40" /></a>
