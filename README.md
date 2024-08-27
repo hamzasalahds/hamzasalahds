@@ -2,7 +2,7 @@
 
 <h3 align="left">About me: </h3>
 
-Results-driven data professional skilled in Python, R, SQL, Tableau, and Power BI. Adept at transforming complex data into actionable insights for decision-making. Currently pursuing a master’s in data science with a focus on statistical analysis and machine learning.
+Results-driven data professional skilled in Python, R, SQL, Power BI, and Tableau. Adept at transforming complex data into actionable insights for decision-making. Currently pursuing a master’s in data science with a focus on statistical analysis and machine learning.
 
 - 👨‍💻 All my projects are available on [**GitHub**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-science-portfolio).
 
