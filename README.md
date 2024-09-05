@@ -16,12 +16,7 @@ Results-driven data professional skilled in Python, R, SQL, Power BI, and Tablea
 <a href="https://public.tableau.com/app/profile/hamzasalahds/vizzes" target="blank"><img align="center" src="tableau-icon-svgrepo-com.svg" alt="@hamzasalahds" height="30" width="40" /></a>
 <a href="https://medium.com/@hamzamsalahds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamzasalahds" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hamzasalahds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamzasalahds" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Coding Profiles:</h3>
-<p align="left">
 <a href="https://www.hackerrank.com/hamzasalahds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamzasalahds" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamzasalahds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzasalahds" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hamzasalahds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hamzasalahds" height="30" width="40" /></a>
-
-
+</p>
