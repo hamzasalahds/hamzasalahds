@@ -1,8 +1,7 @@
 <h2>Hi 👋, I'm Hamza Salah</h1>
 
 <h3 align="left">About me: </h3>
-
-Results-driven data professional skilled in Python, R, SQL, Power BI, and Tableau. Adept at transforming complex data into actionable insights for decision-making. Currently pursuing a master’s in data science with a focus on statistical analysis and machine learning.
+Results-driven Data Analyst with a proven track record of leveraging data to drive business outcomes. Skilled in Python, R, SQL, Power BI, and Tableau, with experience in projects ranging from healthcare to retail. Demonstrated ability to lead teams, uncover actionable insights, and implement data-driven solutions. Committed to continuous learning, I am currently pursuing a Master of Science in Data Science with a focus on statistical analysis and machine learning.
 
 - 👨‍💻 All my projects are available on [**GitHub**](https://github.com/hamzasalahds/projects/blob/main/README.md#data-science-portfolio).
 
